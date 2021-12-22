@@ -16,3 +16,11 @@ p{
 
 }
 
+body {
+    display:flex; flex-direction:column; justify-content:center;
+    min-height:100vh;
+    margin-left: 30vh;
+    margin-right: 30vh;
+  }
+
+
