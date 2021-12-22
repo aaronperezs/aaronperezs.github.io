@@ -1,0 +1,59 @@
+The Coding DB Case Study
+Role: UX Designer, UX Researcher, Visual Designer
+Responsibilities: Conducting interviews, paper and digital wireframing, low and high-fidelity prototyping, accounting for accessibility, iterating on designs and responsive design.
+Duration: 2-3 Weeks
+Aaron Perez
+
+Product overview
+The Coding Database is a website to find courses and resources of every programming language on the internet. You can find and filter almost every existing course or try the ones we make ourselves. You can also check other resources like documentation, cheat sheets, featured blogs, and much more. Let's code!
+The problem we are trying to address here is students feeling overwhelmed when they need to learn new coding tools by not finding good information sources. 
+Our main goal is to design a user friendly website where users can find courses and resources of coding related tools like programming languages or software development frameworks.
+
+The process
+image
+I followed the Design Thinking Process framework because I think that empathizing with the user is key to develop the best possible product.
+During this project I was able to understand users pain points, conduct interviews for creating empathy maps, create personas, user stories and a user journey map. 
+I have developed problem statements and conducted a competitive audit. I came up with ideas using techniques like How Might We? and Crazy Eights. 
+Finally, I determined the Information Architecure and builded a sitemap before creating wireframes and prototypes. We will see some of these procedures down below.
+
+Persona: Maria
+Maria is a 24-year-old Junior Software Developer who likes spending time with her family. She just found a job and she needs to learn lots of new tools and languages. She feels overwhelmed when she has to search on the web.
+“Coding let you be free and give you the possibility to create new awesome things”
+Goals
+Learn new tools, languages and frameworks. 
+She wants to spend more time coding than searching. 
+Frustrations
+She spends way too much time searching for tutorials.
+She feel bored in almost every tutorial as they are not easy to follow.
+empathymap
+Problem Statement
+María is a programmer who needs to easily find better tutorials and resources about coding because she wants to learn new tools like programming languages.
+User pain points 
+Time wasted searching on the web for the courses and resources she wants.
+Video tutorials are not engaging enough.
+
+Competitive audit
+
+Initial Designs
+images
+During the ideation process, several screens were created. I took the logo and description introduction over a more conventional navigation bar as I think it's not needed. Ideas like showing tools as a carousel or popping cards for each tool were also discarded.
+images
+After reviewing some options, I came up with the idea of using tabs. I think it was the best way to show the two main parts of the tool page. I also wanted free space and an obstacle free happy path.
+
+Wireframes & Low-Fidelity Prototype
+image
+The main objective of the homepage is to easily find the tool the user wants to learn. Taking that into consideration, we can see that the list of tools takes almost all the space on the screen. On this homepage, the user can read a description about the site, find new tools to discover and, in the case a course is in progress, click the button to continue the course.
+image
+In the tool screen, the user can see a description of the tool, some data of interest, and two main tabs, courses and resources. The courses tab is going to populate with online courses about the tool. The list can be sorted and filtered based on user preferences. The site has its own course so the user is able to start learning from the site. The resources tab includes documentation, sites, videos, blogs, and more places to learn more about the tool.
+
+Style Guide
+image
+The main objective of the visual style is to Keep It Simple, Stupid. KISS Principle, also used in coding.
+The typeface used is Fira Code, a well-known programming typeface. By using this monospaced font, programmers will feel like home.
+
+Mockups & High-Fidelity Prototype
+After conducting an usability study, a searchbar was added to the homepage. We can also see that if the user is enrolled in a course, a shortcut will be showed in the courses enrolled space. Sharing the web with GitHub, Stack Overflow and Reedit is a staple for programmers.
+The component in charge of navigation is a breadcrumb menu, it's an interesting option as the user has only one flow to follow.
+These are the main screens of the app, to see more or the complete prototype, please reach out to me.
+Conclusion
+Conclusion
