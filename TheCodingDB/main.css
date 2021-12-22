@@ -17,12 +17,13 @@ p{
 }
 
 body {
-
+    position: relative;
 }
 
 h2{
     font-weight: 900;
     margin-bottom: 3vh;
+    font-weight: bolder;
 }
 
 
@@ -35,13 +36,9 @@ img{
     padding-top: 5vh;
     padding-bottom: 5vh;
     display:flex; flex-direction:column; justify-content:center;
-    padding-left: 40vh;
-    padding-right: 40vh;
+    padding-left: 30vh;
+    padding-right: 30vh;
 
-}
-
-#bodydiv{
- 
 }
 
 p{
@@ -59,11 +56,10 @@ p{
 }
 
 #paperwireframes img{
-    max-width: 50%;
+    max-width: 48%;
     border-style: solid;
     border-color: darkgreen;
     border-width: 2pt;
-    margin: 1vh;
 }
 
 #paperwireframes2{
