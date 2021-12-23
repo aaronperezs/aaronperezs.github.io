@@ -17,7 +17,7 @@ p{
 }
 
 body {
-    position: relative;
+    position: absolute;
 }
 
 h2{
@@ -50,6 +50,16 @@ p{
  background-color:  #F5F5F5;
 
 }
+
+.wireframes img{
+ width: 70%;
+}
+
+.wireframes p{
+    padding: 50pt;
+    max-width: 150pt;
+   }
+
 
 #paperwireframes{
     display: flex;
