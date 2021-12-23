@@ -1,0 +1,90 @@
+/* ////////////////////////////////////////
+
+Your custom css here
+
+/////////////////////////////////////////*/
+
+* {
+  padding: 0px;
+  margin: 0px;
+  
+}
+
+.highlight {
+    color: #388E3C;
+    font-weight: bold;
+}
+
+.coding-db {
+    font-family: "Fira Code", monospace;
+}
+
+p {
+  font-size: 16pt;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+.container-db{
+    width: 70%;
+    margin: auto;
+}
+
+/* .container-db {
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  padding-left: 30vh;
+  padding-right: 30vh;
+} */
+
+p {
+  margin-bottom: 2vh;
+}
+
+.dark {
+  background-color: #f5f5f5;
+}
+
+.wireframes img {
+  width: 70%;
+}
+
+.wireframes p {
+  padding: 50pt;
+  max-width: 150pt;
+}
+
+#paperwireframes {
+  display: flex;
+}
+
+#paperwireframes img {
+  max-width: 48%;
+  border-style: solid;
+  border-color: darkgreen;
+  border-width: 2pt;
+}
+
+#paperwireframes2 {
+  display: flex;
+}
+
+#paperwireframes2 img {
+  max-width: 30%;
+  border-style: solid;
+  border-color: darkgreen;
+  border-width: 2pt;
+  margin: 1vh;
+}
+
+/* Colors: 
+white: #FFFFFF;
+green: #66BB6A;
+black: #333333;
+dark green: #388E3C;
+background: #F5F5F5;
+
+*/
