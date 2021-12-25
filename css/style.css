@@ -18,7 +18,7 @@ Change your color here
 ////////////////////////////////////////////////////////////////////////////////////////////////////*/
 
 :root {
-    --primary-color: #694bea;
+    --primary-color: #6495ED;
     --secondary-color: #f8cf46;
 }
 
@@ -289,6 +289,7 @@ Header intro
 .entry:hover .entry-image {
     -webkit-transform: scale(1.1);
     transform: scale(1.1)
+    
 }
 
 .work-entry-hover {
@@ -298,7 +299,7 @@ Header intro
     bottom: 0;
     left: 0;
     z-index: 1;
-    background: rgba(136, 86, 201, 0.753);
+    background: rgba(100, 149, 237, 0.753);
     opacity: 0;
     visibility: hidden;
     -webkit-transition: all .2s ease-in-out;
