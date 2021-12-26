@@ -19,6 +19,7 @@ Your custom css here
     font-family: "Fira Code", monospace;
 }
 
+
 p {
   font-size: 16pt;
 }
@@ -28,9 +29,19 @@ img {
   max-width: 100%;
 }
 
+h2{
+  margin-bottom: 20pt;
+}
+
+body{
+  min-width: 700px;
+}
+
 .container-db{
     width: 70%;
     margin: auto;
+    padding-top: 30pt;
+    padding-bottom: 30pt;
 }
 
 /* .container-db {
@@ -42,6 +53,8 @@ img {
 
 p {
   margin-bottom: 2vh;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .dark {
@@ -49,12 +62,11 @@ p {
 }
 
 .wireframes img {
-  width: 70%;
+  width: 50%;
 }
 
-.wireframes p {
-  padding: 50pt;
-  max-width: 150pt;
+.wireframes p{
+  margin-top: 30pt;
 }
 
 #paperwireframes {
@@ -80,6 +92,11 @@ p {
   margin: 1vh;
 }
 
+.styleguide img{
+  margin-top: 20pt;
+  margin-bottom: 40pt;
+}
+
 /* Colors: 
 white: #FFFFFF;
 green: #66BB6A;
@@ -88,3 +105,11 @@ dark green: #388E3C;
 background: #F5F5F5;
 
 */
+
+/*image bullet
+
+*/
+
+.b1 {
+  list-style-image: url(https://upload.wikimedia.org/wikipedia/commons/4/4a/Arrow_right.png);
+}
