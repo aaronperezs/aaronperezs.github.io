@@ -169,7 +169,7 @@ a.link:hover::before {
 ///////////////////////*/
 
 .container {
-    max-width: 1440px
+    max-width: 1440px;
 }
 
 
@@ -194,7 +194,6 @@ Navigation
     font-weight: 900;
     text-transform: capitalize;
 }
-
 
 /*/////////////////////
 Header intro 

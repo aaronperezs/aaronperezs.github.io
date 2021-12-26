@@ -33,6 +33,10 @@ h2{
   margin-bottom: 20pt;
 }
 
+body{
+  min-width: 700px;
+}
+
 .container-db{
     width: 70%;
     margin: auto;
