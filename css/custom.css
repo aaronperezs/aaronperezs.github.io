@@ -37,6 +37,7 @@ body{
   min-width: 700px;
 }
 
+
 .container-db{
     width: 70%;
     margin: auto;
@@ -53,8 +54,8 @@ body{
 
 p {
   margin-bottom: 2vh;
-  text-align: justify;
-  text-justify: inter-word;
+  text-align:  justify;  
+  text-justify:distribute-all-lines;
 }
 
 .dark {
@@ -112,4 +113,5 @@ background: #F5F5F5;
 
 .b1 {
   list-style-image: url(https://upload.wikimedia.org/wikipedia/commons/4/4a/Arrow_right.png);
+  font-size: 16pt;
 }
