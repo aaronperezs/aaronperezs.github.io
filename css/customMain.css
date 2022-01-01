@@ -1,0 +1,65 @@
+.box{
+    opacity: 0;
+
+    position: absolute;
+    margin-bottom: 100pt;
+  }
+   
+  
+  .b1{
+    animation: ani1 15s infinite;
+  }
+  .b2{
+    animation: ani2 15s infinite;
+  }
+  .b3{
+    animation: ani3 15s infinite;
+  }
+  .b4{
+    animation: ani4 15s infinite;
+  }
+  
+  @keyframes ani1 {
+    0%{
+      opacity: 0;
+    }
+    10%{
+      opacity: 1;
+    }
+    25%{
+      opacity: 0;
+    }
+  }
+  @keyframes ani2 {
+    25%{
+      opacity: 0;
+    }
+    35%{
+      opacity: 1;
+    }
+    50%{
+      opacity: 0;
+    }
+  }
+  @keyframes ani3 {
+    50%{
+      opacity: 0;
+    }
+    60%{
+      opacity: 1;
+    }
+    75%{
+      opacity: 0;
+    }
+  }
+  @keyframes ani4 {
+    75%{
+      opacity: 0;
+    }
+    90%{
+      opacity: 1;
+    }
+    100%{
+      opacity: 0;
+    }
+  }
