@@ -15,14 +15,23 @@ Your custom css here
     font-weight: bold;
 }
 
-.coding-db {
+/*.coding-db {
     font-family: "Fira Code", monospace;
+}*/
+
+h1,
+h2,
+h3{
+  font-family: "Fira Code", monospace;
 }
 
 
 p {
   font-size: 16pt;
+  
 }
+
+
 
 
 img {
@@ -30,7 +39,7 @@ img {
 }
 
 h2{
-  margin-bottom: 20pt;
+  margin-bottom: 30pt;
 }
 
 body{
@@ -75,7 +84,7 @@ p {
 }
 
 #paperwireframes img {
-  max-width: 48%;
+  max-width: 50%;
   border-style: solid;
   border-color: darkgreen;
   border-width: 2pt;
@@ -90,7 +99,7 @@ p {
   border-style: solid;
   border-color: darkgreen;
   border-width: 2pt;
-  margin: 1vh;
+  margin: 10pt;
 }
 
 .styleguide img{
