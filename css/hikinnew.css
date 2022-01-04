@@ -1,0 +1,29 @@
+
+* {
+    padding: 0px;
+    margin: 0px;
+   
+}
+
+.small-container{
+    width: 70%;
+    margin: auto;
+    padding-top: 30pt;
+    padding-bottom: 30pt;
+}
+
+p{
+    font-size: 16pt;
+}
+
+.small-container li{
+    font-size: 21pt;
+    list-style: none;
+}
+
+.smaller-container{
+    width: 50%;
+    margin: auto;
+    padding-top: 30pt;
+    padding-bottom: 30pt;
+}

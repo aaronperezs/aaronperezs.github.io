@@ -38,7 +38,7 @@ Change your color here
 }
 
 body {
-    padding-top: 120px;
+    padding-top: 72px;
     font-family: 'Muli', sans-serif;
 }
 
@@ -379,18 +379,4 @@ Header intro
     font-weight: 600;
     font-size: 11px;
     color: #000;
-}
-
-
-/* Conatact */
-
-.contact .form-control {
-    display: block;
-    width: 100%;
-    height: calc(1.5em + .75rem + 2px);
-    padding: 1.875rem .85rem;
-    color: #495057;
-    background-color: #fff;
-    border: 1px solid #e9ecef;
-    border-radius: 0;
 }
